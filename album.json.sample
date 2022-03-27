@@ -1,0 +1,17 @@
+{
+    "items": [
+        {
+            "added_by": {
+                "id": "31oyblstrlzftnlyqhds3qrjsqfe"
+            },
+            "track": {
+                "album": {
+                    "href": "https://api.spotify.com/v1/albums/3Nm8R7TgJ2DKu9AwvAVPW6",
+                    "name": "Crypto"
+                },
+                "href": "https://api.spotify.com/v1/tracks/2hrUqYeCsthAj8zARwFAFj",
+                "name": "Crypto"
+            }
+        }
+    ]
+}
